@@ -5,7 +5,7 @@ My journey in tech commenced with the BS Information Technology program.
 
 ---
 
-## Education
+## Educational
 **BS Information Technology**
   - **School:** New Era University
   - **Course** Bachelor of Science in Information Technology
