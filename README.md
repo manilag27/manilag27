@@ -1,4 +1,4 @@
-# Hi there, I'm Jeremias Esperanza! 👋
+# Hi there, I'm Sebastian Andrew N. Manilag! 👋
 
 I am passionate about coding and adept in managing databases. I thrive on solving intricate problems and architecting elegant solutions.  
 My journey in tech commenced with the BS Information Technology program.
