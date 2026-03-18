@@ -12,7 +12,7 @@ My journey in tech commenced with the BS Information Technology program.
   - **Year Level:** 2nd Year
 
 ---
-## My project 
+## My projects
 - [MY MIDTERM PROJECT](https://projmidterm.ct.ws/PROJECT_IM/main.php)
 
 ## Certifications
